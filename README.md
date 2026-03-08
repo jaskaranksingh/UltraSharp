@@ -1,2 +1,2 @@
-# UltraSharp
-Beltrami Transformers for Ultrasound Super-Resolution
+# UltraSharp: Beltrami Transformers for Ultrasound Super-Resolution
+
