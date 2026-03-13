@@ -2,13 +2,13 @@
 
 ## Transformers meets Beltrami Physics and Riemannian Geometry for Ultrasound Super-Resolution?
 
-**Accepted as Oral Presentation -- IEEE ISBI 2026**
+This repository contains the official implementation of UltraSharp, a geometry-aware transformer architecture for single-image super-resolution of clinical ultrasound data. The method is grounded in Beltrami operator theory and Riemannian geometry, treating the image domain as a curved manifold whose local metric is driven by tissue structure and physical acquisition properties.
+
+**Accepted as Oral Presentation: IEEE ISBI 2026**
 
 Prabhav Sanga<sup>1</sup>, Jaskaran Singh<sup>2</sup>, Tapabrata Chakraborti<sup>1,3</sup>
 
 <sup>1</sup>University College London &nbsp;&nbsp; <sup>2</sup>University of Nottingham &nbsp;&nbsp; <sup>3</sup>The Alan Turing Institute, UK
-
-This repository contains the official implementation of UltraSharp, a geometry-aware transformer architecture for single-image super-resolution of clinical ultrasound data. The method is grounded in Beltrami operator theory and Riemannian geometry, treating the image domain as a curved manifold whose local metric is driven by tissue structure and physical acquisition properties.
 
 ---
 
